@@ -16,7 +16,7 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/AM-ROBOTS/AM-ROBOTS",
+    "website": "https://github.com/Kingmaker003/moviesearchrobot",
     "repository": "https://github.com/Kingmaker003/moviesearchrobot",
     "env": {
         "BOT_TOKEN": {
